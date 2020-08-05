@@ -3,7 +3,9 @@ Heterogeneous Domain Adaptation via Soft Transfer Network, ACM MM 2019
 
 # Codes
 You can download the codes of STN in:
+
    Link: https://pan.baidu.com/s/1AHsrP4OwOLYWl1rcjbsQVg  
+   
    Password: qr91
 
 # Running Environment
@@ -23,7 +25,8 @@ My Running Environment is: Tensorflow-GPU-1.4, Python-2.7.12
 # Citation
 
 If you find it is helpful, please cite:
-'
+
+```
 @InProceedings{Yao-2019,
   author    = {Yuan Yao and Yu Zhang and Xutao Li and Yunming Ye},
   title     = {Heterogeneous Domain Adaptation via Soft Transfer Network},
@@ -31,3 +34,4 @@ If you find it is helpful, please cite:
   year      = {2019},
   pages     = {1578--1586},
 }
+```
