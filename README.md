@@ -10,9 +10,19 @@ Link: https://pan.baidu.com/s/1AHsrP4OwOLYWl1rcjbsQVg
 
 Password: qr91
 
-# Running Environment
+# Step-by-step Installation
 
-My Running Environment is: Tensorflow-GPU-1.4, Python-2.7.12
+```
+conda create -n cwan python=3.6
+conda activate cwan
+
+pip install tensorflow-gpu==1.4
+conda install cudatoolkit=8.0
+conda install cudnn=6.0
+conda install scipy
+conda install matplotlib
+conda install scikit-learn
+```
 
 # Running 
 1. You can run this code by inputing: python main.py. The results should be close to 93.03 (C->A) and 93.11 (W->A), respectively. Note that different environmental outputs may be different.
