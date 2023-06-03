@@ -13,8 +13,8 @@ Password: qr91
 # Step-by-step Installation
 
 ```
-conda create -n cwan python=3.6
-conda activate cwan
+conda create -n stn python=3.6
+conda activate stn
 
 pip install tensorflow-gpu==1.4
 conda install cudatoolkit=8.0
