@@ -2,13 +2,6 @@
 
 Heterogeneous Domain Adaptation via Soft Transfer Network, ACM MM 2019
 
-# Codes
-
-You can download the codes of STN in:
-
-Link: https://pan.baidu.com/s/1AHsrP4OwOLYWl1rcjbsQVg
-
-Password: qr91
 
 # Step-by-step Installation
 
